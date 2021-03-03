@@ -1,0 +1,3 @@
+Create a Tip calculator 
+
+HTML, CSS, Javascript
